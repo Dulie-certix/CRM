@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CRM Notes Module
 
 Full-stack mini CRM Notes application built with TypeScript.
@@ -142,4 +143,8 @@ frontend/
     ├── createNote.cy.ts
     └── editDeleteNote.cy.ts
 ```
+"# CRM" 
+=======
+# CRM
+>>>>>>> c1beddc814c6bca16cf3440f0911be454d078dc5
 "# CRM" 
