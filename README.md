@@ -142,3 +142,4 @@ frontend/
     ├── createNote.cy.ts
     └── editDeleteNote.cy.ts
 ```
+"# CRM" 
